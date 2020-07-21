@@ -7,7 +7,7 @@ int main(void) {
 	int a;
 	int b;
 	int c;
-	cout << a << b << c << endl;
+	
 
 	return 0;
 }
